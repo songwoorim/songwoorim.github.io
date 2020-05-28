@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: ""
 remote_theme: thelehhman/texture
-url: "https://www.woorimsong.github.io"
+url: "https://www.songwoorim.github.io"
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -22,13 +22,13 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  songwoorim
+    gmail: "mailto:songrainforest@gmail.com"
+    instagram: "https://www.instagram.com/woorimsong/"
     rss: rss
  
 
