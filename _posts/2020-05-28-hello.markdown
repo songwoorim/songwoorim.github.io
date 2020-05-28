@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "github 블로그 만들기"
+description: github 블로그 만들기.
+date:   2020-05-28 10:45:36 +0530
+categories: github 블로그
+---
+github 블로그 만들기
+
+몇 달 전부터 github 블로그를 만드려고 이리저리 구글링하면서 삽질을 많이 했다..
+[tale][tale] 테마로 시작했다가 [texture][texture] 테마가 심플해 보여서 변경했다.
+우여곡절 끝에 시작했지만 힘들면 다른 블로그를 개설해야겠다.. liquid 문법 너무 어렵다...
+
+
+[tale]: https://github.com/chesterhow/tale
+[texture]: https://github.com/thelehhman/texture
+
+
+
+
+
+

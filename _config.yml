@@ -21,7 +21,7 @@ texture:
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
@@ -30,7 +30,12 @@ texture:
     gmail: "mailto:songrainforest@gmail.com"
     instagram: "https://www.instagram.com/woorimsong/"
     rss: rss
- 
+
+  navigation:
+    - mywork: My Work
+      url: "/my-work"
+    - resume: Resume
+      url: "/resume"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up

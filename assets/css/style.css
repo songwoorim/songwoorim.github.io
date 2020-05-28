@@ -470,9 +470,6 @@ main {
 }
 
 div.highlighter-rouge {
-  width: 100vw;
-  position: relative;
-  right: 150px;
   margin: 40px 0;
 }
 
@@ -820,6 +817,8 @@ header .social li i:hover {
 }
 
 .navbar a {
+  display: block;
+  padding: 10px 25px;
   color: inherit;
 }
 
@@ -830,7 +829,6 @@ header .social li i:hover {
 .navbar ul li {
   border: 1px solid #fff;
   float: left;
-  padding: 10px 25px;
   font-size: 15px;
   -webkit-transition: background-color 0.3s ease-in;
   transition: background-color 0.3s ease-in;
@@ -990,4 +988,13 @@ header .social li i:hover {
 
 .texture-red .post-date, .texture-purple .post-date {
   color: #ddd;
+}
+
+@media all and (min-width: 320px) and (max-width: 767px) {
+  header {
+    padding: 90px 0 60px 0;
+  }
+  .navbar a {
+    padding: 5px 15px;
+  }
 }
